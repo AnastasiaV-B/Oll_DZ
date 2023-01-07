@@ -1,0 +1,15 @@
+C:\repo\Examples\Exp\bin\Debug\net6.0\Exp.exe
+C:\repo\Examples\Exp\bin\Debug\net6.0\Exp.deps.json
+C:\repo\Examples\Exp\bin\Debug\net6.0\Exp.runtimeconfig.json
+C:\repo\Examples\Exp\bin\Debug\net6.0\Exp.dll
+C:\repo\Examples\Exp\bin\Debug\net6.0\Exp.pdb
+C:\repo\Examples\Exp\obj\Debug\net6.0\Exp.csproj.AssemblyReference.cache
+C:\repo\Examples\Exp\obj\Debug\net6.0\Exp.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\Examples\Exp\obj\Debug\net6.0\Exp.AssemblyInfoInputs.cache
+C:\repo\Examples\Exp\obj\Debug\net6.0\Exp.AssemblyInfo.cs
+C:\repo\Examples\Exp\obj\Debug\net6.0\Exp.csproj.CoreCompileInputs.cache
+C:\repo\Examples\Exp\obj\Debug\net6.0\Exp.dll
+C:\repo\Examples\Exp\obj\Debug\net6.0\refint\Exp.dll
+C:\repo\Examples\Exp\obj\Debug\net6.0\Exp.pdb
+C:\repo\Examples\Exp\obj\Debug\net6.0\Exp.genruntimeconfig.cache
+C:\repo\Examples\Exp\obj\Debug\net6.0\ref\Exp.dll
